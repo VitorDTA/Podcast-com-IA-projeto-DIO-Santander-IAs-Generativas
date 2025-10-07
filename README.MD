@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Generated Image October 07, 2025 - 2_13PM.png"
     width="300"
 />
 </p>
